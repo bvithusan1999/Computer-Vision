@@ -1,3 +1,5 @@
+# main.py
+
 import cv2
 from task_1.intensity_reduction import reduce_intensity_levels
 from task_2.smoothing import average_filter

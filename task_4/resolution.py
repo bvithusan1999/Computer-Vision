@@ -1,3 +1,5 @@
+# resolution.py
+
 import numpy as np
 def block_average(image, block_size):
     h, w = image.shape[:2]
